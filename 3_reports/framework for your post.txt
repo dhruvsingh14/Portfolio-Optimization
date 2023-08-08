@@ -1,0 +1,24 @@
+1. what is a portfolio?
+
+2. assets that are typically held within a portfolio?
+
+3. what is portfolio optimization?
+
+4. some of the most common techniques?
+
+5. what we'll be discussing today? harry markowitz's theory
+
+6. our data: assets we've selected. 
+
+7. make clear that - while portfolio optimization here is used to select weights
+for a pre-given list of financial instruments
+it can also be used to select the financial instruments themlseves
+
+ie, stock screening, vs. optimizing weights
+
+8. walkthrough all of the code
+
+9. results
+
+10. conclusion
+

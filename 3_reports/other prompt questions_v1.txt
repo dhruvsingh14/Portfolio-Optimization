@@ -1,0 +1,23 @@
+other questions to consider
+
+* why is it crucial to use the mean of returns?
+* why is this the industry standard?
+* what are the pros and cons of using mean returns?
+* are there any alternatives?
+* why do we annualize mean returns?
+* should we annualize returns over a shorter time horizons (eg. 3 months)
+
+* why do we use std. dev. as our measure of volatility?
+* how much of the risk to an asset does this typically represent?
+* what are some other forms of risk to an asset's return?
+* what is their percentage breakdown?
+* do measure of risk differ by asset class? [this is probably a big question]
+* how would you model risks to assets using quant finance?
+
+
+More deep dive questions surrounding: 
+* weights
+* metrics
+* selection
+
+NOTE: ADD 1 FX TO YOUR PORTFOLIO
